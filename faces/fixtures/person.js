@@ -1,9 +1,6 @@
-// ==========================================================================
-// Project:   Faces.Person Fixtures
-// Copyright: @2012 My Company, Inc.
-// ==========================================================================
-/*globals Faces */
-
+/**
+ * @author Manjeet
+ */
 sc_require('models/person');
 
 Faces.Person.FIXTURES = [

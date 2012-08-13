@@ -1,15 +1,8 @@
-// ==========================================================================
-// Project:   Faces
-// Copyright: @2012 My Company, Inc.
-// ==========================================================================
-/*globals Faces */
-
-/** @namespace
-
-  My cool new app.  Describe your application.
+/**
+ * @author Manjeet
+ */
   
-  @extends SC.Object
-*/
+ 
 Faces = SC.Application.create(
   /** @scope Faces.prototype */ {
 

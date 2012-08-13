@@ -1,9 +1,6 @@
-// ==========================================================================
-// Project:   Faces
-// Copyright: @2012 My Company, Inc.
-// ==========================================================================
-/*globals Faces */
-
+/**
+ * @author Manjeet
+ */
 // This is the theme that defines how your app renders.
 //
 // Your app is given its own theme so it is easier and less

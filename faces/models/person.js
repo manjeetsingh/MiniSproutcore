@@ -1,19 +1,13 @@
-// ==========================================================================
-// Project:   Faces.Person
-// Copyright: @2012 My Company, Inc.
-// ==========================================================================
-/*globals Faces */
-
+/**
+ * @author Manjeet
+ */
 /** @class
 
   (Document your Model here)
 
-  @extends SC.Record
-  @version 0.1
 */
 Faces.Person = SC.Record.extend(
-/** @scope Faces.Person.prototype */ {
-
+ {
   name: SC.Record.attr(String),
   company: SC.Record.attr(String),
   website: SC.Record.attr(String),

@@ -1,9 +1,6 @@
-// ==========================================================================
-// Project:   Faces
-// Copyright: @2012 My Company, Inc.
-// ==========================================================================
-/*globals Faces */
-
+/**
+ * @author Manjeet
+ */
 // This is the function that will start your app running.  The default
 // implementation will load any fixtures you have created then instantiate
 // your controllers and awake the elements on your page.

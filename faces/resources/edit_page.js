@@ -1,10 +1,6 @@
-// ==========================================================================
-// Project:   Faces.editPage
-// Copyright: © 2010 Intellum Inc.
-// ==========================================================================
-/*globals Faces */
-
-// This page describes a part of the interface for your application.  
+/**
+ * @author Manjeet
+ */
 
 Faces.editPage = SC.Page.design({
 

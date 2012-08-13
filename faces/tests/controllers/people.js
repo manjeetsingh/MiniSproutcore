@@ -1,8 +1,6 @@
-// ==========================================================================
-// Project:   Faces.peopleController Unit Test
-// Copyright: @2012 My Company, Inc.
-// ==========================================================================
-/*globals Faces module test ok equals same stop start */
+/**
+ * @author Manjeet
+ */
 
 module("Faces.peopleController");
 

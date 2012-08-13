@@ -1,9 +1,6 @@
-// ==========================================================================
-// Project:   Faces.peopleController
-// Copyright: ©2010 My Company, Inc.
-// ==========================================================================
-/*globals Faces */
-
+/**
+ * @author Manjeet
+ */
 /** @class
 
   (Document Your Controller Here)
